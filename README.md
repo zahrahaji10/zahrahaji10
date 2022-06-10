@@ -1,7 +1,7 @@
 
 ![banner](https://user-images.githubusercontent.com/102627226/173041899-fd68d2c0-0541-4c32-917c-5bb1b4ff0e3b.png)
 
-<h1 align="center"> Hi :wave:,  i am Zahra</h1>
+<h1 align="center"> Hi :wave:,  I am Zahra</h1>
  
  
  
