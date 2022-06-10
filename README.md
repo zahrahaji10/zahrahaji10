@@ -26,8 +26,9 @@
 <p align="left">
 <span><span><a href="https://linkedin.com/in/zahra-haji-3baab1191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahra-haji-3baab1191/" height="20" width="30" /></a>
 <span> <div class="social-links">
-<i class="fa-solid fa-envelope"></i><a href="zahrahhaji10@gmail.com" target="_blank"> Personal E-mail </a>
-  </div></span>
+ <div class="social-links">
+          <i class="fa-solid fa-envelope"></i><a href="mailto:test@test.com" target="_blank"> Personal E-mail : zahrahhaji10@gmail.com </a>
+        </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
