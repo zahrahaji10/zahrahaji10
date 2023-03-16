@@ -13,6 +13,10 @@ Hello! My name is Zahra, and I'm a Therapeutic Radiographer in the NHS. I am cur
 <!-- projects -->
 <h1 style="margin-top: 40px;"> Example of my work </h1>
 
+![desktop view](https://user-images.githubusercontent.com/102627226/225677689-44b46843-a480-4b66-9434-0407695c7b36.png)
+
+<!-- add the github link -->
+
 <!-- skills  -->
 
 <h1 style="margin-top: 40px;"> Skills </h1>
