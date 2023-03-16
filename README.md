@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**zahrahaji10/zahrahaji10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- banner -->
 
-Here are some ideas to get you started:
+![zahra-haji-github-banner](https://user-images.githubusercontent.com/102627226/225647414-460224f4-a4ad-4a25-b065-9e8d72358301.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- skills  -->
+
+<!-- projects -->
+
+<!-- about me section  -->
+
+<!-- how to reach me  -->
+
+<!-- separate out the sections with a divider -->
