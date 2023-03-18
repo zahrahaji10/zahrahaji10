@@ -8,7 +8,7 @@
 
 <h1 align="center" style="margin-top: 25px;"> Zahra Haji </h1>
 
-Hello! My name is Zahra, and I'm a Therapeutic Radiographer in the NHS. I am currently in pursuit to transitioning full as a junior software developer. I completed a coding bootcamp at the university of birmingham. My primary areas of expertise are mainly front-end-development. Currently, I'm working to further develop my skills and expertise. Checkout some of my personal and collaborated projects. Maybe you’ll be amazed at my overall growth so far in my journey.
+Hello! I'm a Therapeutic Radiographer in the NHS. I am currently in pursuit to transitioning fully as a junior software developer. My primary area of expertise is front and back end development. Currently, I'm working to further develop my skills. Checkout some of my personal and collaborated projects. Maybe you’ll be amazed at my overall growth so far in my journey ; )
 
 <!-- projects -->
 <h1 style="margin-top: 40px;"> Example of my work </h1>
