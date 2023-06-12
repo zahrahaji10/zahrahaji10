@@ -1,8 +1,8 @@
 <!-- ### _Hello_ 👋, I'm Zahra -->
 
 <!-- banner -->
+![banner](https://github.com/zahrahaji10/zahrahaji10/assets/102627226/9d44f3a0-5b4d-4b7a-87f6-68867f91db67)
 
-![zahra-haji-github-banner](https://user-images.githubusercontent.com/102627226/225647414-460224f4-a4ad-4a25-b065-9e8d72358301.jpg)
 
 <!-- introduction -->
 
